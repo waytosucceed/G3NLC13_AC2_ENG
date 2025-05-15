@@ -1,0 +1,232 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Listen to the word. Then, fill in the missing letters to complete the word:<br><b>T_ER",
+    "Q_sound": "./sound/tower.mp3",
+    "options": [
+      { "text": "ou" },
+      { "text": "ow" },
+      { "text": "oi" }
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Listen to the word. Then, fill in the missing letters to complete the word:<br><b>C__N",
+    "Q_sound": "./sound/count.mp3",
+    "options": [
+      { "text": "ow" },
+      { "text": "oy" },
+      { "text": "ou" }
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "Listen to the word. Then, fill in the missing letters to complete the word: <br><b>B__L",
+    "Q_sound": "./sound/boil.mp3",
+    "options": [
+      { "text": "oi" },
+      { "text": "ow" },
+      { "text": "ou" }
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Listen to the word. Then, fill in the missing letters to complete the word: <br><b>T__S",
+    "Q_sound": "./sound/toys.mp3",
+    "options": [
+      { "text": "oy" },
+      { "text": "ow" },
+      { "text": "oi" }
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Listen to the word. Then, fill in the missing letters to complete the word: <br><b>C__BOY",
+    "Q_sound": "./sound/cowboy.mp3",
+    "options": [
+      { "text": "ou" },
+      { "text": "ow" },
+      { "text": "oi" }
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Listen to the word. Then, fill in the missing letters to complete the word: <br><b>J__NT",
+    "Q_sound": "./sound/joint.mp3",
+    "options": [
+      { "text": "ou" },
+      { "text": "oy" },
+      { "text": "oi" }
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Listen to the word. Then, fill in the missing letters to complete the word: <br><b>S__ND",
+    "Q_sound": "./sound/sound.mp3",
+    "options": [
+      { "text": "ow" },
+      { "text": "ou" },
+      { "text": "oy" }
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Listen to the word. Then, fill in the missing letters to complete the word: <br><b>D__NWARD",
+    "Q_sound": "./sound/downward.mp3",
+    "options": [
+      { "text": "ow" },
+      { "text": "oi" },
+      { "text": "ou" }
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Listen to the word. Then, fill in the missing letters to complete the word: <br><b>V__CE",
+    "Q_sound": "./sound/voice.mp3",
+    "options": [
+      { "text": "oi" },
+      { "text": "ou" },
+      { "text": "oy" }
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "Listen to the word. Then, fill in the missing letters to complete the word: <br><b>N__SE",
+    "Q_sound": "./sound/noise.mp3",
+    "options": [
+      { "text": "ou" },
+      { "text": "oi" },
+      { "text": "ow" }
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Hear the word and identify the diphthong used in this word:",
+    "Q_sound": "./sound/ground.mp3",
+    "options": [
+      { "text": "ou" },
+      { "text": "ow" },
+      { "text": "oi" },
+      { "text": "oy" }
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Hear the word and identify the diphthong used in this word:",
+    "Q_sound": "./sound/joyful.mp3",
+    "options": [
+      { "text": "ou" },
+      { "text": "oi" },
+      { "text": "oy" },
+      { "text": "ow" }
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Hear the word and identify the diphthong used in this word:",
+    "Q_sound": "./sound/boil.mp3",
+    "options": [
+      { "text": "ow" },
+      { "text": "oy" },
+      { "text": "ou" },
+      { "text": "oi" }
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Hear the word and identify the diphthong used in this word:",
+    "Q_sound": "./sound/coward.mp3",
+    "options": [
+      { "text": "ow" },
+      { "text": "oi" },
+      { "text": "ou" },
+      { "text": "oy" }
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Hear the word and identify the diphthong used in this word:",
+    "Q_sound": "./sound/shout.mp3",
+    "options": [
+      { "text": "oi" },
+      { "text": "ou" },
+      { "text": "ow" },
+      { "text": "oy" }
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Hear the word and identify the diphthong used in this word:",
+    "Q_sound": "./sound/point.mp3",
+    "options": [
+      { "text": "ou" },
+      { "text": "oi" },
+      { "text": "oy" },
+      { "text": "ow" }
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Hear the word and identify the diphthong used in this word:",
+    "Q_sound": "./sound/flower.mp3",
+    "options": [
+      { "text": "oy" },
+      { "text": "oi" },
+      { "text": "ow" },
+      { "text": "None of the above" }
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Hear the word and identify the diphthong used in this word:",
+    "Q_sound": "./sound/annoyed.mp3",
+    "options": [
+      { "text": "oi" },
+      { "text": "ow" },
+      { "text": "oy" },
+      { "text": "ou" }
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Hear the word and identify the diphthong used in this word:",
+    "Q_sound": "./sound/proud.mp3",
+    "options": [
+      { "text": "oy" },
+      { "text": "oi" },
+      { "text": "ou" },
+      { "text": "ow" }
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Hear the word and identify the diphthong used in this word:",
+    "Q_sound": "./sound/noise.mp3",
+    "options": [
+      { "text": "ow" },
+      { "text": "oi" },
+      { "text": "oy" },
+      { "text": "ou" }
+    ],
+    "correct": 1
+  }
+]
